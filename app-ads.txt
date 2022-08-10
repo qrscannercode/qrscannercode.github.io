@@ -369,3 +369,5 @@ improvedigital.com, 1863, RESELLER
 freewheel.tv, 1220655, RESELLER 
 yahoo.com, 59052, RESELLER 
 risecodes.com,6022acddc8b2f90001767980, RESELLER
+
+pangleglobal.com, 5001781, DIRECT
